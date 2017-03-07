@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\theda\.android\build-cache\ec5c3061108176127d1315141f99ffc3395f8293\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\pre-dexed\release\classes_a829a2d7a7969412525b6831eb5e97a9fa964221.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bc8850d3b5a49ff53240ef0c403705da5eb6a48">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_33f1c64a392ea7e234bb3867d2b1595553b68a54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\.android\build-cache\7bf31fc5669b27430b854a7f0306bf88342ec51d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea3a3419af023a3f19e965e52845a126ba4bc551\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\theda\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\pre-dexed\release\support-annotations-22.1.1_adc1f85840ba2c8a8f3a3f20ca49c4b372558434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\theda\.android\build-cache\7bf31fc5669b27430b854a7f0306bf88342ec51d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\pre-dexed\release\classes_ea3a3419af023a3f19e965e52845a126ba4bc551.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="831e1df469cf9f229917fe26f2f4424ba82c6648">
+        <dex dex="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ff2c88acd9e7bb9d46aa55eb5811a3f1567e2487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_71b3b1ad454709b6720a88d01d6da35d567c2ef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\.android\build-cache\ec5c3061108176127d1315141f99ffc3395f8293\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a829a2d7a7969412525b6831eb5e97a9fa964221\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_adc1f85840ba2c8a8f3a3f20ca49c4b372558434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e75f3c4c8bfd638a6eafb29835c7122a663314ae">
+        <dex dex="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bd93c02fc6dc01b09275d1388f5df994c586ef85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_39941403ec902f1519ef34f4e1f502e02526a858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_ac4cb308e189d8cae7ec178861a6380a89621bcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5c7f23c251f19063fc901ada704ef1b3549139c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\theda\.android\build-cache\ec5c3061108176127d1315141f99ffc3395f8293\output\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\pre-dexed\release\internal_impl-22.1.1_ed11ab12ad3317bba4099c9e3bfd172dcca3440c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\.android\build-cache\ec5c3061108176127d1315141f99ffc3395f8293\output\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="H:\TTT Backup 10_2016\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_ed11ab12ad3317bba4099c9e3bfd172dcca3440c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\theda\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\theda\OneDrive\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_adc1f85840ba2c8a8f3a3f20ca49c4b372558434\classes.dex" />
+    </item>
+
+</items>

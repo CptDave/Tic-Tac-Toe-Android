@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.david.tictactoe" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_custom"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light">
+        <!--FIX ME OR DONT I HAVE NO IDEA WHAT THE BELOW DOES BUT IT WORKS-->
+        <activity
+            android:name="com.example.david.tictactoe.ActivityMain"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <action android:name="android.intent.action.SEND" />
+                <action android:name="android.intent.action.SENDTO" />
+
+                <data android:scheme="sms" />
+                <data android:scheme="smsto" />
+                <data android:scheme="mms" />
+                <data android:scheme="mmsto" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.david.tictactoe.ActivityAbout"
+            android:label="@string/app_name"
+            android:parentActivityName=".ActivityMain">
+        </activity>
+
+        <activity
+            android:name="com.example.david.tictactoe.ActivitySettings"
+            android:label="@string/app_name">
+            <!--android:parentActivityName=".ActivityMain" >-->
+            <!--I had to comment out the above line because onBackPressed wasn't working
+                as i had wanted it to. Leaving it in gave the user a route to go back
+                to the main activity without applying any difficulty changes. For now it
+                will stay commented out. FIXME, and the onBackPressed method.-->
+        </activity>
+
+    </application>
+
+</manifest>
